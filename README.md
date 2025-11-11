@@ -141,7 +141,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Deepak Bhardwaj**
-📧 [Email Me](mailto:your-email@example.com)
+📧 [Email Me](mailto:imdeepak2201@gmail.com)
 🌐 [GitHub Profile](https://github.com/iamdeepak199)
 
 ---
