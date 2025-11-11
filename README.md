@@ -136,7 +136,13 @@ python main.py
 * 📤 Export data to CSV/PDF
 * 🔐 User authentication system
 
----
+## 📸 Screenshots  
+
+### 🖥️ Main Panel  
+![Main Screen](https://raw.githubusercontent.com/iamdeepak199/-Student-Management-System-Python-PyQt5-/main/image.png)
+
+### ➕ Add Student Dialog  
+![Add Student Dialog](https://raw.githubusercontent.com/iamdeepak199/-Student-Management-System-Python-PyQt5-/main/image2.png)
 
 ## 👨‍💻 Author
 
