@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Rohan",
+        "lname": "Bhardwaj",
+        "roll_no": "01",
+        "Date_of_Birth": "1999-10-19",
+        "Favourite_Sport": "Football",
+        "Favourite_subject": "English"
+    },
+    {
+        "name": "Tushar",
+        "lname": "Gupta",
+        "roll_no": "02",
+        "Date_of_Birth": "2000-11-18",
+        "Favourite_Sport": "Cricket",
+        "Favourite_subject": "Maths"
+    },
+    {
+        "name": "Tanmay",
+        "lname": "Sharma",
+        "roll_no": "03",
+        "Date_of_Birth": "2000-11-17",
+        "Favourite_Sport": "Football",
+        "Favourite_subject": "History"
+    },
+    {
+        "name": "Rohan",
+        "lname": "Sharma",
+        "roll_no": "101",
+        "Date_of_Birth": "2007-05-12",
+        "Favourite_Sport": "Cricket",
+        "Favourite_subject": "Mathematics"
+    },
+    {
+        "name": "Aarav",
+        "lname": "Patel",
+        "roll_no": "102",
+        "Date_of_Birth": "2008-07-19",
+        "Favourite_Sport": "Football",
+        "Favourite_subject": "Science"
+    },
+    {
+        "name": "Priya",
+        "lname": "Verma",
+        "roll_no": "103",
+        "Date_of_Birth": "2009-03-22",
+        "Favourite_Sport": "Badminton",
+        "Favourite_subject": "English"
+    },
+    {
+        "name": "Neha",
+        "lname": "Singh",
+        "roll_no": "104",
+        "Date_of_Birth": "2007-09-15",
+        "Favourite_Sport": "Tennis",
+        "Favourite_subject": "Biology"
+    },
+    {
+        "name": "Arjun",
+        "lname": "Mehta",
+        "roll_no": "105",
+        "Date_of_Birth": "2010-01-30",
+        "Favourite_Sport": "Basketball",
+        "Favourite_subject": "Physics"
+    },
+    {
+        "name": "Kavya",
+        "lname": "Gupta",
+        "roll_no": "106",
+        "Date_of_Birth": "2009-12-11",
+        "Favourite_Sport": "Volleyball",
+        "Favourite_subject": "Chemistry"
+    },
+    {
+        "name": "Aditya",
+        "lname": "Kumar",
+        "roll_no": "107",
+        "Date_of_Birth": "2008-02-28",
+        "Favourite_Sport": "Table Tennis",
+        "Favourite_subject": "Computer Science"
+    },
+    {
+        "name": "Meera",
+        "lname": "Joshi",
+        "roll_no": "108",
+        "Date_of_Birth": "2009-10-05",
+        "Favourite_Sport": "Swimming",
+        "Favourite_subject": "English"
+    },
+    {
+        "name": "Ishaan",
+        "lname": "Roy",
+        "roll_no": "109",
+        "Date_of_Birth": "2010-04-18",
+        "Favourite_Sport": "Cricket",
+        "Favourite_subject": "History"
+    },
+    {
+        "name": "Riya",
+        "lname": "Nair",
+        "roll_no": "110",
+        "Date_of_Birth": "2007-11-09",
+        "Favourite_Sport": "Basketball",
+        "Favourite_subject": "Geography"
+    },
+    {
+        "name": "Tanvi",
+        "lname": "Das",
+        "roll_no": "111",
+        "Date_of_Birth": "2009-06-03",
+        "Favourite_Sport": "Badminton",
+        "Favourite_subject": "Mathematics"
+    },
+    {
+        "name": "Vihaan",
+        "lname": "Kapoor",
+        "roll_no": "112",
+        "Date_of_Birth": "2008-08-24",
+        "Favourite_Sport": "Football",
+        "Favourite_subject": "Physics"
+    },
+    {
+        "name": "Sneha",
+        "lname": "Reddy",
+        "roll_no": "113",
+        "Date_of_Birth": "2007-03-07",
+        "Favourite_Sport": "Tennis",
+        "Favourite_subject": "English"
+    },
+    {
+        "name": "Aryan",
+        "lname": "Malhotra",
+        "roll_no": "114",
+        "Date_of_Birth": "2008-12-20",
+        "Favourite_Sport": "Cricket",
+        "Favourite_subject": "Computer Science"
+    },
+    {
+        "name": "Ananya",
+        "lname": "Das",
+        "roll_no": "115",
+        "Date_of_Birth": "2010-02-16",
+        "Favourite_Sport": "Swimming",
+        "Favourite_subject": "Biology"
+    },
+    {
+        "name": "Rohan",
+        "lname": "Gupta",
+        "roll_no": "116",
+        "Date_of_Birth": "2009-04-09",
+        "Favourite_Sport": "Football",
+        "Favourite_subject": "Mathematics"
+    },
+    {
+        "name": "Rahul",
+        "lname": "Khanna",
+        "roll_no": "117",
+        "Date_of_Birth": "2008-10-27",
+        "Favourite_Sport": "Hockey",
+        "Favourite_subject": "Physics"
+    },
+    {
+        "name": "Diya",
+        "lname": "Patel",
+        "roll_no": "118",
+        "Date_of_Birth": "2009-01-12",
+        "Favourite_Sport": "Badminton",
+        "Favourite_subject": "English"
+    },
+    {
+        "name": "Krish",
+        "lname": "Jain",
+        "roll_no": "119",
+        "Date_of_Birth": "2010-05-05",
+        "Favourite_Sport": "Cricket",
+        "Favourite_subject": "Chemistry"
+    },
+    {
+        "name": "Nisha",
+        "lname": "Sen",
+        "roll_no": "120",
+        "Date_of_Birth": "2007-07-30",
+        "Favourite_Sport": "Tennis",
+        "Favourite_subject": "History"
+    }
+]
